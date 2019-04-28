@@ -13,3 +13,5 @@ header:
 
 I am M.S. Candidate, studying at Dept. of Electronics and Computer Engineering, Hanyang University. 
 I grew up in South Korea.
+
+{% include feature_row %}
