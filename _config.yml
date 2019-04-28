@@ -109,12 +109,12 @@ author:
   name             : "Changwoo Lee"
   avatar           : "/assets/images/myphoto.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "M.S. Candidate."
-#  location         : "Seoul, South Korea"
-#  email            : "owga30@gmail.com"
-#  github           : "changwoolee"
-#  linkedin         : "changwoo-lee"
-  
-
+  location         : "Seoul, South Korea"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:owga30@gmail.com"
+    
 
 # Reading Files
 include:
