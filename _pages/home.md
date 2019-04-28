@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 read_time: false
 comments: false
 title: <br><br><br>Changwoo Lee
