@@ -110,21 +110,10 @@ author:
   avatar           : "/assets/images/myphoto.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "M.S. Candidate."
   location         : "Seoul, South Korea"
-  email            :
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: mailto:owga30@gmail.com
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       url: "https://github.com/changwoolee"
-    
-# Site Footer
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       url: "https://github.com/changwoolee"
+  email            : "owga30@gmail.com"
+  github           : "changwoolee"
+  linkedin         : "changwoo-lee"
+  
 
 
 # Reading Files
