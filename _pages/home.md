@@ -7,7 +7,7 @@ title: <br><br><br>Changwoo Lee
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/surface-wall-white.jpg
+  overlay_image: /assets/images/architecture-building-culture-380707.jpg
 ---
 
 ### Bio
