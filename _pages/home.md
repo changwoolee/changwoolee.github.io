@@ -12,7 +12,8 @@ header:
 
 ### Bio
 
-I am M.S. Candidate, studying at Dept. of Electronics and Computer Engineering, Hanyang University, Seoul, S. Korea. 
-I grew up in South Korea.
+I am M.S. Candidate, studying at Dept. of Electronics and Computer Engineering, Hanyang University, Seoul, Korea.
+I am interested in Bayesian Neural Networks, Variational Inference and optimizing neural networks for fast inference and training. 
+
 
 {% include feature_row %}
