@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : "Changwoo Lee"
-description              : "An amazing website."
+description              : "Variational Inference, Machine Learning and Embedded Systems."
 url                      : "https://changwoolee.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "changwoolee/changwoolee.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,10 +108,11 @@ analytics:
 author:
   name             : "Changwoo Lee"
   avatar           : /assets/images/myphoto.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "M.S. student at Hanyang University, Seoul, Korea"
+  location         : "Seoul, Korea"
   email            : "owga30@gmail.com"
   github           : "changwoolee"
+  linkedin         : "changwoo-lee"
 
 
 
