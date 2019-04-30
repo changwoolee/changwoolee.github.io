@@ -1,6 +1,5 @@
 ---
-layout: home
-author_profile: true
+layout: splash
 description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
 tags: [Jekyll, theme, responsive, blog, template]
 read_time: false
