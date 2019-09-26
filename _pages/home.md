@@ -7,7 +7,7 @@ comments: false
 title: <br><br><br>Changwoo Lee
 permalink: /
 header:
-  image: /assets/images/0843_1280.png
+  overlay_image: /assets/images/0843_1280.png
 ---
 
 ## Bio
