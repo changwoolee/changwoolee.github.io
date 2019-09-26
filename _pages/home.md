@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
 read_time: false
 comments: false
