@@ -7,13 +7,13 @@ title: <br><br><br>Changwoo Lee
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/0869x4_logvar.png
+  overlay_image: /assets/images/0843x4_logvar.png
 ---
 
 ### Bio
 
 I am M.S. Candidate, studying at Dept. of Electronics and Computer Engineering, Hanyang University, Seoul, Korea.
-I am interested in Bayesian Neural Networks, Variational Inference and optimizing neural networks for fast inference and training. 
+I am interested in Semi-supervised Learning, Bayesian Neural Networks, Variational Inference and optimizing neural networks for fast inference and training. 
 
 
 {% include feature_row %}
