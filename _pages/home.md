@@ -7,7 +7,7 @@ comments: false
 title: <br><br><br>Changwoo Lee
 permalink: /
 header:
-  overlay_image: /assets/images/0843_1280.png
+  image: /assets/images/HYU.jpg
 ---
 
 ## Bio
@@ -26,7 +26,7 @@ _Will be appeared in 18th IEEE International Conference on Machine Learning and 
 ## Education
 
 **M.S. Student in Electronics and Computer Engineering**  
-Mar. 2018 - Current 
+Mar. 2018 - Current  
 _Hanyang University, Seoul, Korea_
 
 
