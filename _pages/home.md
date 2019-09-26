@@ -12,8 +12,8 @@ header:
 
 ### Bio
 
-I am M.S. Candidate, studying at Dept. of Electronics and Computer Engineering, Hanyang University, Seoul, Korea.
-I am interested in Semi-supervised Learning, Bayesian Neural Networks, Variational Inference and optimizing neural networks for fast inference and training. 
+Hi, I am M.S. student at [Department of Electronics and Computer Engineering of Hanyang University](http://electronic.hanyang.ac.kr/en/index.php) supervised by [Prof. Ki-Seok Chung](http://esoc.hanyang.ac.kr/member_detail.php?code=kchung).
+I am interested in probabilistic modeling of Deep Neural Networks, semi-supervised and unsupervised learning techniques.
 
 
 {% include feature_row %}
