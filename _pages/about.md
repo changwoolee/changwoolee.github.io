@@ -7,8 +7,7 @@ comments: false
 title: <br><br><br>About Me
 permalink: /about/
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/HYU.jpg
+  image: /assets/images/HYU.jpg
 
 ---
 
