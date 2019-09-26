@@ -26,18 +26,18 @@ _Will be appeared in 18th IEEE International Conference on Machine Learning and 
 
 ### Education
 
-**M.S. Student in Electronics and Computer Engineering,
+**M.S. Student in Electronics and Computer Engineering**  
 Mar. 2018 - Current 
 _Hanyang University, Seoul, Korea_
 
 
-**B.S. in Electronic Engineering  
+**B.S. in Electronic Engineering**  
 Mar. 2012 - Feb. 2018  
 _Hanyang University, Seoul, Korea_
 
 ### Experience
 
-ICCV 2019 Student Volunteer  
+**ICCV 2019 Student Volunteer**  
 Oct. 27 - Nov. 2, 2019
 
 {% include feature_row %}
