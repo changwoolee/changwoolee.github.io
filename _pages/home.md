@@ -8,6 +8,7 @@ title: <br><br><br>Changwoo Lee
 permalink: /
 header:
   image: /assets/images/HYU.jpg
+  caption: "Photo: Sunset in HYU."
 ---
 
 ## Bio
