@@ -9,7 +9,7 @@ title: <br><br><br>Research
 permalink: /research/
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/HYU.jpg
+  overlay_image: /assets/images/0843_1280.jpg
 ---
 
 Research
