@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Changwoo Lee"
-  avatar           : /assets/images/cw.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/cw2.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "M.S. student at Hanyang University, Seoul, Korea"
   location         : "Seoul, Korea"
   email            : "owga30@gmail.com"
