@@ -7,8 +7,7 @@ comments: false
 title: <br><br><br>Changwoo Lee
 permalink: /
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/images/0843.png
+  image: /assets/images/0843.png
 ---
 
 ## Bio
