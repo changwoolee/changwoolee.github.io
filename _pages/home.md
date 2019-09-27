@@ -18,7 +18,7 @@ I am interested in probabilistic modeling of Deep Neural Networks, semi-supervis
 
 ## Papers
 
-### 2019
+### Pre-prints
 
 GRAM: Gradient Rescaling Attention Model for Data Unceratinty Estimation in Single Image Super Resolution  
 Changwoo Lee and Ki-Seok Chung\*.  
