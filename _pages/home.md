@@ -14,7 +14,12 @@ header:
 ## Bio
 
 I am M.S. student at [Department of Electronics and Computer Engineering of Hanyang University](http://electronic.hanyang.ac.kr/en/index.php) supervised by [Prof. Ki-Seok Chung](http://esoc.hanyang.ac.kr/member_detail.php?code=kchung).
-I am interested in probabilistic modeling of Deep Neural Networks, semi-supervised and unsupervised learning techniques.
+I am interested in probabilistic modeling of Deep Neural Networks, semi-supervised and unsupervised learning problems.
+Specifically, I focus on handling uncertainty of data and models.  
+
+Now, I am looking for a new lab in the US for Ph.d. program in CS or EE.  
+
+
 
 ## Papers
 
