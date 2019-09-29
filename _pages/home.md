@@ -4,7 +4,7 @@ classes: wide
 description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
 read_time: false
 comments: false
-title: <br><br><br><br>Changwoo Lee<br><br><br>
+title: <br><br>Changwoo Lee<br><br><br><br><br>
 permalink: /
 header:
   overlay_image: /assets/images/HYU.jpg
@@ -17,7 +17,10 @@ I am M.S. student at [Department of Electronics and Computer Engineering of Hany
 I am interested in probabilistic modeling of Deep Neural Networks, semi-supervised and unsupervised learning problems.
 Specifically, I focus on handling uncertainty of data and models.  
 
-**Now, I am looking for a new lab in the US for Ph.d. program in CS or EE!!**  
+## What's New
+* **Now, I am looking for a new lab in the US for Ph.d. program in CS or EE!!**  
+* Selected as a student volunteer for [ICCV 2019](http://iccv2019.thecvf.com/).
+* One paper on **uncertainty in Super Resolution** accepted at [ICMLA 2019](https://www.icmla-conference.org/icmla19/).
 
 
 
