@@ -4,10 +4,10 @@ classes: wide
 description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
 read_time: false
 comments: false
-title: Changwoo Lee
+title: <br><br><br><br>Changwoo Lee<br><br><br>
 permalink: /
 header:
-  image: /assets/images/HYU.jpg
+  overlay_image: /assets/images/HYU.jpg
   caption: "Photo: Sunset in HYU."
 ---
 
