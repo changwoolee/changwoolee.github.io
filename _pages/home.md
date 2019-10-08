@@ -30,7 +30,7 @@ Specifically, I focus on handling uncertainty of data and models.
 
 GRAM: Gradient Rescaling Attention Model for Data Unceratinty Estimation in Single Image Super Resolution  
 **Changwoo Lee** and Ki-Seok Chung\*.  
-_Will be appeared in 18th IEEE International Conference on Machine Learning and Applications (ICMLA 2019)._  
+_Will be appeared in 18th IEEE International Conference on Machine Learning and Applications (ICMLA 2019)._ [Code](https://github.com/changwoolee/gradient-rescaling-attention-model)  
 
 ## Education
 
