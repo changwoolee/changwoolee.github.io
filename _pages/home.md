@@ -15,22 +15,14 @@ header:
 
 Hi! I am Changwoo LEE, a M.S. student at [Department of Electronics and Computer Engineering of Hanyang University](http://electronic.hanyang.ac.kr/en/index.php) supervised by [Prof. Ki-Seok Chung](http://esoc.hanyang.ac.kr/member_detail.php?code=kchung).
 I am interested in probabilistic modeling of Deep Neural Networks, semi-supervised and unsupervised learning problems.
-Specifically, I focus on handling uncertainty of data and models.  
-
-## What's New
-* **Now, I am looking for a new lab in the US for Ph.d. program in CS or EE!!**  
-* Selected as a student volunteer for [ICCV 2019](http://iccv2019.thecvf.com/).
-* One paper on **uncertainty in Super Resolution** accepted at [ICMLA 2019](https://www.icmla-conference.org/icmla19/).
 
 
 
 ## Papers
 
-### Pre-prints
-
 GRAM: Gradient Rescaling Attention Model for Data Unceratinty Estimation in Single Image Super Resolution  
 **Changwoo Lee** and Ki-Seok Chung\*.  
-_Will be appeared in 18th IEEE International Conference on Machine Learning and Applications (ICMLA 2019)._  
+_18th IEEE International Conference on Machine Learning and Applications (ICMLA 2019)._  
 [[Code]](https://github.com/changwoolee/gradient-rescaling-attention-model)  
 
 ## Education
