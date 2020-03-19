@@ -1,9 +1,9 @@
 ---
-title: Poisson Distribution
+title: "Poisson Distribution"
 categories:
   - blogging
 header:
-  image: /assets/images/2020-03-19-image1.jpg
+  image_overlay: /assets/images/2020-03-19-image1.jpg
   caption: "Photo by Sanaan Mazhar from Pexels"
 toc: false
 ---  
