@@ -1,5 +1,5 @@
 ---
-title: "Poisson Distribution"
+title: Poisson Distribution
 categories:
   - blogging
 header:
