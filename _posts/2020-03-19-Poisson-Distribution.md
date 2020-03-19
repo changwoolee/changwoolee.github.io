@@ -18,7 +18,7 @@ E[X] = np = \lambda,
 $$
 so we can write $(1)$ with its mean $\lambda$:
 $$
-P(X=k) = \binom{N}{k}(\frac{\lambda}{n}^k(1-\frac{\lambda}{n})^{n-k}. \tag{2}
+P(X=k) = \binom{N}{k}\left(\frac{\lambda}{n}\right)^k\left(1-\frac{\lambda}{n}\right)^{n-k}. \tag{2}
 $$
 First, let us count people entering the store at each minute. Then $n$ will be $60$. But how can we be sure that two or more people coming inside the store in a minute? I think one minute is too long to make sure that there is only one person who comes inside the store. Let's count whether a person enters at every second. Now $n$ is going to be $3600$. Unfortunately, it could be a reasonable interval, but we cannot still be sure about the previously mentioned problem.  
 
