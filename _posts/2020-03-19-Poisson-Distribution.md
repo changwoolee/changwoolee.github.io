@@ -1,3 +1,10 @@
+---
+title: "Poisson Distribution"
+categories:
+  - blogging
+toc: false
+---
+
 # Poisson Distribution
 
 Before we talk about the Poisson distribution, let's think of a probability of how many people are coming to a 24/7 convenience store. To make things simple, we assume that the probability does not change over time. That is, the probability at 1 pm and 3 am is the same. We can write out the probability using a binomial distribution:
