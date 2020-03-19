@@ -1,4 +1,5 @@
 ---
+title: Poisson Distribution
 categories:
   - blogging
 header:
