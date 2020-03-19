@@ -2,6 +2,9 @@
 title: "Poisson Distribution"
 categories:
   - blogging
+header:
+  overlay_image: /assets/images/2020-03-19-image1.jpg
+  caption: "Photo by Sanaan Mazhar from Pexels"
 toc: false
 ---
 
