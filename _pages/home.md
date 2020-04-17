@@ -13,8 +13,7 @@ header:
 
 ## Bio
 
-Hi! I am Changwoo LEE, a M.S. student at [Department of Electronics and Computer Engineering of Hanyang University](http://electronic.hanyang.ac.kr/en/index.php) supervised by [Prof. Ki-Seok Chung](http://esoc.hanyang.ac.kr/member_detail.php?code=kchung).
-I am interested in probabilistic modeling of Deep Neural Networks, semi-supervised and unsupervised learning problems.
+Hi! I am Changwoo LEE.
 
 
 
@@ -28,7 +27,7 @@ _18th IEEE International Conference on Machine Learning and Applications (ICMLA 
 ## Education
 
 **M.S. Student in Electronics and Computer Engineering**  
-Mar. 2018 - Current  
+Mar. 2018 - Feb. 2020 
 _Hanyang University, Seoul, Korea_
 
 
