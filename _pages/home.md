@@ -19,7 +19,7 @@ Hi, I am Changwoo Lee. I will join Professor [Hun-Seok Kim](https://kim.engin.um
 
 ## Papers
 
-A Confidence-Calibrated MOBA Game Winner Predictor
+A Confidence-Calibrated MOBA Game Winner Predictor  
 Dong-Hee Kim, **Changwoo Lee** and Ki-Seok Chung.  
 _IEEE Conference on Games, 2020._
 
