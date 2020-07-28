@@ -19,8 +19,8 @@ Hi, I am Changwoo Lee. I will join Professor [Hun-Seok Kim](https://kim.engin.um
 
 ## Papers
 
-A Confidence-Calibrated MOBA Game Winner PredictorDong-Hee Kim  
-**Changwoo Lee** and Ki-Seok Chung.  
+A Confidence-Calibrated MOBA Game Winner Predictor
+Dong-Hee Kim, **Changwoo Lee** and Ki-Seok Chung.  
 _IEEE Conference on Games, 2020._
 
 GRAM: Gradient Rescaling Attention Model for Data Unceratinty Estimation in Single Image Super Resolution  
