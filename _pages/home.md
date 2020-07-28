@@ -22,11 +22,12 @@ Hi, I am Changwoo Lee. I will join Professor [Hun-Seok Kim](https://kim.engin.um
 A Confidence-Calibrated MOBA Game Winner Predictor  
 Dong-Hee Kim, **Changwoo Lee** and Ki-Seok Chung.  
 _IEEE Conference on Games, 2020._
+[[ArXiv]](https://arxiv.org/abs/2006.15521)
 
 GRAM: Gradient Rescaling Attention Model for Data Unceratinty Estimation in Single Image Super Resolution  
-**Changwoo Lee** and Ki-Seok Chung\*.  
+**Changwoo Lee** and Ki-Seok Chung.  
 _18th IEEE International Conference on Machine Learning and Applications (ICMLA 2019)._  
-[[Code]](https://github.com/changwoolee/gradient-rescaling-attention-model)  
+[[Paper]](https://ieeexplore.ieee.org/document/8999032)[[Code]](https://github.com/changwoolee/gradient-rescaling-attention-model)  
 
 ## Education
 
