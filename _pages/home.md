@@ -30,14 +30,19 @@ _18th IEEE International Conference on Machine Learning and Applications (ICMLA 
 
 ## Education
 
-**M.S. in Electronics and Computer Engineering**  
-Mar. 2018 - Feb. 2020 
-_Hanyang University, Seoul, Korea_
+**University of Michigan**, Ann Arbor, MI, USA
+Ph.D. student in Electrical and Computer Engineering
+Fall 2020 - Present
+
+**Hanyang University**, Seoul, Republic of Korea  
+M.S. in Electronics and Computer Engineering  
+2018 - 2020  
+
+**Hanyang University**, Seoul, Republic of Korea   
+B.S. in Electronic Engineering  
+2012 - 2018
 
 
-**B.S. in Electronic Engineering**  
-Mar. 2012 - Feb. 2018  
-_Hanyang University, Seoul, Korea_
 
 
 
