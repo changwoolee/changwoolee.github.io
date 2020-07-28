@@ -7,8 +7,7 @@ comments: false
 title: <br><br>Changwoo Lee<br><br><br><br><br>
 permalink: /
 header:
-  overlay_image: /assets/images/HYU.jpg
-  caption: "Photo: A Beautiful Sunset in HYU."
+  overlay_image: /assets/images/black-teal-and-blue-abstract-painting-2130474 (1).jpg
 ---
 
 ## Bio
