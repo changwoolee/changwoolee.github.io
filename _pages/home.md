@@ -13,11 +13,15 @@ header:
 
 ## Bio
 
-Hi! I am Changwoo LEE.
+Hi, I am Changwoo Lee. I will join Professor [Hun-Seok Kim](https://kim.engin.umich.edu/)'s lab in Fall 2020, as a first year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan](http://umich.edu/).
 
 
 
 ## Papers
+
+A Confidence-Calibrated MOBA Game Winner PredictorDong-Hee Kim  
+**Changwoo Lee** and Ki-Seok Chung.  
+_IEEE Conference on Games, 2020._
 
 GRAM: Gradient Rescaling Attention Model for Data Unceratinty Estimation in Single Image Super Resolution  
 **Changwoo Lee** and Ki-Seok Chung\*.  
@@ -26,7 +30,7 @@ _18th IEEE International Conference on Machine Learning and Applications (ICMLA 
 
 ## Education
 
-**M.S. Student in Electronics and Computer Engineering**  
+**M.S. in Electronics and Computer Engineering**  
 Mar. 2018 - Feb. 2020 
 _Hanyang University, Seoul, Korea_
 
@@ -35,9 +39,6 @@ _Hanyang University, Seoul, Korea_
 Mar. 2012 - Feb. 2018  
 _Hanyang University, Seoul, Korea_
 
-## Experience
 
-**ICCV 2019 Student Volunteer**  
-Oct. 27 - Nov. 2, 2019
 
 {% include feature_row %}
