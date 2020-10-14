@@ -30,7 +30,7 @@ _18th IEEE International Conference on Machine Learning and Applications (ICMLA 
 
 ## Education
 
-**University of Michigan**, Ann Arbor, MI, USA
+**University of Michigan**, Ann Arbor, MI, USA  
 Ph.D. student in Electrical and Computer Engineering
 Fall 2020 - Present
 
