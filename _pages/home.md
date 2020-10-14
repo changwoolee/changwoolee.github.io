@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: wide
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
+description: "Home."
 read_time: false
 comments: false
 title: <br><br>Changwoo Lee<br><br><br><br><br>
@@ -12,7 +12,7 @@ header:
 
 ## Bio
 
-Hi, I am Changwoo Lee. I will join Professor [Hun-Seok Kim](https://kim.engin.umich.edu/)'s lab in Fall 2020, as a first year Ph.D. student in Electrical and Computer Engineering at the [University of Michigan](http://umich.edu/).
+Hi, I am Changwoo Lee. I'm a first year Ph.D. student in the Electrical and Computer Engineering department at the [University of Michigan](http://umich.edu/). My research interests are Machine Learning and Signal Processing.
 
 
 
