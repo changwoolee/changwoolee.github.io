@@ -1,0 +1,433 @@
+// get the ninja-keys element
+const ninja = document.querySelector('ninja-keys');
+
+// add the home and posts menu items
+ninja.data = [{
+    id: "nav-about",
+    title: "about",
+    section: "Navigation",
+    handler: () => {
+      window.location.href = "/";
+    },
+  },{id: "nav-blog",
+          title: "blog",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/blog/";
+          },
+        },{id: "nav-publications",
+          title: "publications",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
+          },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
+        },{id: "nav-people",
+          title: "people",
+          description: "members of the lab or group",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/people/";
+          },
+        },{id: "post-a-post-with-image-galleries",
+      
+        title: "a post with image galleries",
+      
+      description: "this is what included image galleries could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/photo-gallery/";
+        
+      },
+    },{id: "post-a-post-with-tabs",
+      
+        title: "a post with tabs",
+      
+      description: "this is what included tabs in a post could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/tabs/";
+        
+      },
+    },{id: "post-a-post-with-typograms",
+      
+        title: "a post with typograms",
+      
+      description: "this is what included typograms code could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/typograms/";
+        
+      },
+    },{id: "post-a-post-that-can-be-cited",
+      
+        title: "a post that can be cited",
+      
+      description: "this is what a post that can be cited looks like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/post-citation/";
+        
+      },
+    },{id: "post-a-post-with-pseudo-code",
+      
+        title: "a post with pseudo code",
+      
+      description: "this is what included pseudo code could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/pseudocode/";
+        
+      },
+    },{id: "post-a-post-with-code-diff",
+      
+        title: "a post with code diff",
+      
+      description: "this is how you can display code diffs",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/code-diff/";
+        
+      },
+    },{id: "post-a-post-with-advanced-image-components",
+      
+        title: "a post with advanced image components",
+      
+      description: "this is what advanced image components could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/advanced-images/";
+        
+      },
+    },{id: "post-a-post-with-vega-lite",
+      
+        title: "a post with vega lite",
+      
+      description: "this is what included vega lite code could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/vega-lite/";
+        
+      },
+    },{id: "post-a-post-with-geojson",
+      
+        title: "a post with geojson",
+      
+      description: "this is what included geojson code could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/geojson-map/";
+        
+      },
+    },{id: "post-a-post-with-echarts",
+      
+        title: "a post with echarts",
+      
+      description: "this is what included echarts code could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/echarts/";
+        
+      },
+    },{id: "post-a-post-with-chart-js",
+      
+        title: "a post with chart.js",
+      
+      description: "this is what included chart.js code could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/chartjs/";
+        
+      },
+    },{id: "post-gaudi-gblr-differentiable-and-generalized-block-low-rank-matrix-format-for-efficient-dnns",
+      
+        title: "Gaudi-GBLR: Differentiable, and Generalized Block Low-Rank Matrix Format for Efficient DNNs",
+      
+      description: "A project page for the Gaudi-GBLR paper.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/gaudi-gblr/";
+        
+      },
+    },{id: "post-a-post-with-tikzjax",
+      
+        title: "a post with TikZJax",
+      
+      description: "this is what included TikZ code could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/tikzjax/";
+        
+      },
+    },{id: "post-a-post-with-bibliography",
+      
+        title: "a post with bibliography",
+      
+      description: "an example of a blog post with bibliography",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/post-bibliography/";
+        
+      },
+    },{id: "post-a-post-with-jupyter-notebook",
+      
+        title: "a post with jupyter notebook",
+      
+      description: "an example of a blog post with jupyter notebook",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/jupyter-notebook/";
+        
+      },
+    },{id: "post-a-post-with-custom-blockquotes",
+      
+        title: "a post with custom blockquotes",
+      
+      description: "an example of a blog post with custom blockquotes",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/custom-blockquotes/";
+        
+      },
+    },{id: "post-a-post-with-table-of-contents-on-a-sidebar",
+      
+        title: "a post with table of contents on a sidebar",
+      
+      description: "an example of a blog post with table of contents on a sidebar",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/sidebar-table-of-contents/";
+        
+      },
+    },{id: "post-a-post-with-audios",
+      
+        title: "a post with audios",
+      
+      description: "this is what included audios could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/audios/";
+        
+      },
+    },{id: "post-a-post-with-videos",
+      
+        title: "a post with videos",
+      
+      description: "this is what included videos could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/videos/";
+        
+      },
+    },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
+      
+        title: "displaying beautiful tables with Bootstrap Tables",
+      
+      description: "an example of how to use Bootstrap Tables",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/tables/";
+        
+      },
+    },{id: "post-a-post-with-table-of-contents",
+      
+        title: "a post with table of contents",
+      
+      description: "an example of a blog post with table of contents",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/table-of-contents/";
+        
+      },
+    },{id: "post-a-post-with-giscus-comments",
+      
+        title: "a post with giscus comments",
+      
+      description: "an example of a blog post with giscus comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2022/giscus-comments/";
+        
+      },
+    },{id: "post-a-distill-style-blog-post",
+      
+        title: "a distill-style blog post",
+      
+      description: "an example of a distill-style blog post and main elements",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2021/distill/";
+        
+      },
+    },{id: "post-a-post-with-twitter",
+      
+        title: "a post with twitter",
+      
+      description: "an example of a blog post with twitter",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2020/twitter/";
+        
+      },
+    },{id: "post-a-post-with-disqus-comments",
+      
+        title: "a post with disqus comments",
+      
+      description: "an example of a blog post with disqus comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2015/disqus-comments/";
+        
+      },
+    },{id: "news-paper-on-deep-joint-source-channel-coding-with-iterative-source-error-correction-is-accepted-to-aistats23",
+          title: 'Paper on “Deep Joint Source-Channel Coding with Iterative Source Error Correction” is accepted...',
+          description: "",
+          section: "News",},{id: "news-paper-on-differentiable-learning-of-generalized-structured-matrices-for-efficient-deep-neural-networks-is-accepted-to-iclr24",
+          title: 'Paper on “Differentiable Learning of Generalized Structured Matrices for Efficient Deep Neural Networks”...',
+          description: "",
+          section: "News",},{id: "news-i-joined-samsung-research-america-at-mountain-view-as-nlp-ml-research-intern-during-summer-2024",
+          title: 'I joined Samsung Research America at Mountain View as NLP/ML Research Intern during...',
+          description: "",
+          section: "News",},{id: "news-a-paper-blast-block-level-adaptive-structured-matrices-for-efficient-deep-neural-network-inference-is-accepted-to-neurips24",
+          title: 'A paper “BLAST: Block-Level Adaptive Structured Matrices for Efficient Deep Neural Network Inference”...',
+          description: "",
+          section: "News",},{id: "projects-project-1",
+          title: 'project 1',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{id: "projects-project-2",
+          title: 'project 2',
+          description: "a project with a background image and giscus comments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
+            },},{id: "projects-project-3-with-very-long-name",
+          title: 'project 3 with very long name',
+          description: "a project that redirects to another website",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-project-4",
+          title: 'project 4',
+          description: "another without an image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
+            },},{id: "projects-project-5",
+          title: 'project 5',
+          description: "a project with a background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
+            },},{id: "projects-project-6",
+          title: 'project 6',
+          description: "a project with no image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_project/";
+            },},{id: "projects-project-7",
+          title: 'project 7',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/7_project/";
+            },},{id: "projects-project-8",
+          title: 'project 8',
+          description: "an other project with a background image and giscus comments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/8_project/";
+            },},{id: "projects-project-9",
+          title: 'project 9',
+          description: "another project with an image 🎉",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_project/";
+            },},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-inspire',
+        title: 'Inspire HEP',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://inspirehep.net/authors/1010907", "_blank");
+        },
+      },{
+        id: 'social-rss',
+        title: 'RSS Feed',
+        section: 'Socials',
+        handler: () => {
+          window.open("/feed.xml", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-custom_social',
+        title: 'Custom_social',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.alberteinstein.com/", "_blank");
+        },
+      },{
+      id: 'light-theme',
+      title: 'Change theme to light',
+      description: 'Change the theme of the site to Light',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("light");
+      },
+    },
+    {
+      id: 'dark-theme',
+      title: 'Change theme to dark',
+      description: 'Change the theme of the site to Dark',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("dark");
+      },
+    },
+    {
+      id: 'system-theme',
+      title: 'Use system default theme',
+      description: 'Change the theme of the site to System Default',
+      section: 'Theme',
+      handler: () => {
+        setThemeSetting("system");
+      },
+    },];
