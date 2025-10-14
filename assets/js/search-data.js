@@ -28,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/CV_CL.pdf";
+            window.location.href = "/assets/pdf/CV_Changwoo_Lee.pdf";
           },
         },{id: "post-gaudi-gblr-differentiable-and-generalized-block-low-rank-matrix-format-for-efficient-dnns",
       
