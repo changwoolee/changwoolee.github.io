@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a fifth year Ph. D. student in the [department of Electrical and Computer Engineering](http://ece.engin.umich.edu) at the [University of Michigan](https://umich.edu) (U of M), advised by Prof. [Hun-Seok Kim](https://kim.engin.umich.edu). Before I join U of M, I received my M.S. and B.S. at [Hanyang University](https://www.hanyang.ac.kr/web/eng), Seoul, Republic of Korea.
+I am a sixth year Ph. D. student in the [department of Electrical and Computer Engineering](http://ece.engin.umich.edu) at the [University of Michigan](https://umich.edu) (U of M), advised by Prof. [Hun-Seok Kim](https://kim.engin.umich.edu). Before I join U of M, I received my M.S. and B.S. at [Hanyang University](https://www.hanyang.ac.kr/web/eng), Seoul, Republic of Korea.
 
 My research is centered around efficient Deep Learning and Machine Learning algorithms, including model compression, structured matrices, and efficient multi-modal temporal and sensor fusion models. 
 
