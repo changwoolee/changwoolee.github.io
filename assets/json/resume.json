@@ -12,6 +12,7 @@
       "countryCode": "US",
       "region": "Michigan"
     },
+  },
   "languages": [
     {
       "language": "Korean",
@@ -29,4 +30,4 @@
       "icon": ""
     }
   ],
-},
+}
