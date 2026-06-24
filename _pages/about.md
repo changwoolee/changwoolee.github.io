@@ -2,17 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: #University of Michigan. 1301 Beal Avenue, Ann Arbor, MI, USA. 
+subtitle: #Qualcomm. 5665 Morehouse Dr., San Diego, CA, USA
 
 profile:
   align: right
   image: headshot2.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>EECS 2431</p>
-    <p>1301 Beal Avenue</p>
-    <p>Ann Arbor, MI 40109</p>
-    <p><a href="mailto:cwoolee@umich.edu">cwoolee@umich.edu</a></p>
+    <p>5665 Morehouse Dr.</p>
+    <p>San Diego, CA, 92121</p>
+    <p><a href="mailto:changle@qti.qualcomm.com">changle@qti.qualcomm.com</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,10 +27,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a sixth year Ph. D. student in the [department of Electrical and Computer Engineering](http://ece.engin.umich.edu) at the [University of Michigan](https://umich.edu) (U of M), advised by Prof. [Hun-Seok Kim](https://kim.engin.umich.edu). Before I join U of M, I received my M.S. and B.S. at [Hanyang University](https://www.hanyang.ac.kr/web/eng), Seoul, Republic of Korea.
+I am a Machine Learning Researcher at Qualcomm.
+My research centers around efficient Deep Learning and Machine Learning algorithms, including efficient LLM inference, model compression, and efficient matrix multiplication algorithms.
 
-My research is centered around efficient Deep Learning and Machine Learning algorithms, including model compression, structured matrices, and efficient multi-modal temporal and sensor fusion models. 
-
+I received my PhD degree from the [department of Electrical and Computer Engineering](http://ece.engin.umich.edu) at the [University of Michigan](https://umich.edu) (U of M), advised by Prof. [Hun-Seok Kim](https://kim.engin.umich.edu). 
 
 Some fun facts about myself: I love running and brewing coffee. I also enjoy listening to Jazz music. 
 
